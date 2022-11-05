@@ -16,7 +16,7 @@ steps:
   - name: gcr.io/cloud-builders/gcloud
     id  : DEPLOY
     args:
-      - app
+      - run
       - services
       - update
       - $_SERVICE_NAME
