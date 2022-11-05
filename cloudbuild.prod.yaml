@@ -17,7 +17,7 @@ steps:
     id  : DEPLOY
     args:
       - run
-      - services
+      - cloudrunservices
       - update
       - $_SERVICE_NAME
       - --project=$_SERVICE_PROJECT
