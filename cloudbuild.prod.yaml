@@ -32,5 +32,5 @@ substitutions:
     _SERVICE_REGION   : us-central1
     _SERVICE_PROJECT  : management
     _SERVICE_NAME     : my-docker-app-prod
-    _DOCKER_REGISTRY  : astahov-docker-repo
+    _DOCKER_REGISTRY  : gvm-docker-repo
     _DOCKER_IMAGENAME : myapp-prod
