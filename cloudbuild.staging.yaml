@@ -32,6 +32,6 @@ substitutions:
     _SERVICE_REGION   : us-central1
     _SERVICE_PROJECT  : staging-367714
     _SERVICE_NAME     : my-docker-app-staging
-    _DOCKER_REGISTRY  : staging-367714
+    _DOCKER_REGISTRY  : gvm-docker-repo
     _DOCKER_IMAGENAME : myapp-staging
 
